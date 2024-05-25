@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOPs-Zoomcamp/02-experiment-tracking/mlruns/0/c2afd1cef9cd4301b2cb2c80ae807ecf/artifacts
+end_time: 1716660864753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2afd1cef9cd4301b2cb2c80ae807ecf
+run_name: bright-duck-250
+run_uuid: c2afd1cef9cd4301b2cb2c80ae807ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716660864745
+status: 4
+tags: []
+user_id: codespace

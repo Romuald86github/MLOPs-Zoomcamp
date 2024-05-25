@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOPs-Zoomcamp/02-experiment-tracking/mlruns/0/16b14c2fd69443b48ec7d24973294dce/artifacts
+end_time: 1716660207453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b14c2fd69443b48ec7d24973294dce
+run_name: charming-newt-502
+run_uuid: 16b14c2fd69443b48ec7d24973294dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716660207443
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOPs-Zoomcamp/mlruns/0/ce82d404bedf4a3598d7709d9ac08861/artifacts
+end_time: 1716661762258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce82d404bedf4a3598d7709d9ac08861
+run_name: fun-asp-393
+run_uuid: ce82d404bedf4a3598d7709d9ac08861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716661747778
+status: 3
+tags: []
+user_id: codespace

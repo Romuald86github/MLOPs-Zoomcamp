@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOPs-Zoomcamp/02-experiment-tracking/mlruns/0/077408d6764e4497987891f244b837ca/artifacts
+end_time: 1716660488477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 077408d6764e4497987891f244b837ca
+run_name: unruly-perch-515
+run_uuid: 077408d6764e4497987891f244b837ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716660488469
+status: 4
+tags: []
+user_id: codespace
